@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Zwe Nyan Zaw</title>
+        <link>https://dreamlinelove.github.io/projects/</link>
+        <description>Latest blog posts from Zwe Nyan Zaw</description>
+
+        
+        <language>en-us</language>
+        
+
+        
+
+        
+
+        
+
+        
+        <lastBuildDate>Sat, 23 Nov 2024 17:27:26 +0700</lastBuildDate>
+        
+
+        
+        <atom:link href="https://dreamlinelove.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>Photobook</title>
+          <link>https://dreamlinelove.github.io/projects/photobook/</link>
+          <pubDate>Tue, 19 Nov 2024 19:57:53 +0700</pubDate>
+          
+          <guid>https://dreamlinelove.github.io/projects/photobook/</guid>
+          <description>Documented the architecture of Mahidol University Salaya campus through photographs. Captured unique scenes and objects scattered around the campus and applied principles of photography. Extensively made use of a Fujifilm digital camera and its different settings. Utilized Canva and Adobe Lightroom software to create a 26-page photobook together with the team. Communicated project efforts successfully via offline and online channels. Physical copy submitted as final class project. Here is the digital copy.</description>
+        </item>
+            
+        <item>
+          <title>Regex Cli</title>
+          <link>https://dreamlinelove.github.io/projects/regex-cli/</link>
+          <pubDate>Sat, 22 Jul 2023 17:39:09 +0700</pubDate>
+          
+          <guid>https://dreamlinelove.github.io/projects/regex-cli/</guid>
+          <description>Simple command-line program that lets you specify a file and a regular expression pattern to match against in that file. Implemented in C++ and in Java (separately). Java version showcases the Strategy Pattern, supports additional features like verbose mode and line mode, and has documentation. Shipped (C++) executable for Linux, Java version requires a runtime. Code hosted on GitHub: <a href="https://github.com/DreamLineLove/regex-cli">https://github.com/DreamLineLove/regex-cli</a>.</description>
+        </item>
+            
+        
+    </channel>
+</rss>

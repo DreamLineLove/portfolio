@@ -1,0 +1,28 @@
+baseURL = 'https://zwenyanzaw.github.io'
+languageCode = 'en-us'
+title = 'Zwe Nyan Zaw'
+theme = 'notrack'
+
+[params]
+author = 'Zwe Nyan Zaw'
+# optional, defaults to author:
+siteHeading = 'Zwe Nyan Zaw (Clovis)'
+mainSections = ['projects']
+
+showBlogLatest = true
+blogLatestHeading = 'My Projects'
+nBlogLatest = 6
+# footer = """Made with Hugo framework
+#   """
+showTaxonomyLinks = false
+
+[params.social]
+github = 'DreamLineLove'
+email = 'zwenyanzaw@gmail.com'
+linkedin = 'zwe-nyan-zaw'
+
+[taxonomies]
+year = "year"
+month = "month"
+tags = "tags"
+categories = "categories"

@@ -8,7 +8,7 @@ menu:
     weight: 2
 ---
 
-#### Click [here](/files/resume.pdf) to download
+#### Click [here](/portfolio/files/resume.pdf) to download
 
 {{<image
     width="100%"

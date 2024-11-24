@@ -13,6 +13,6 @@ tags:
 - Utilized Canva and Adobe Lightroom software to create a 26-page photobook together with the team.
 - Communicated project efforts successfully via offline and online channels.
 - Physical copy submitted as final class project.
-- Here is the [digital copy](/files/photobook.pdf).
+- Here is the [digital copy](/portfolio/files/photobook.pdf).
 
 ##### I thank my teammates Nene, Risa, and Minh for their efforts. I am honored to have worked with them :)

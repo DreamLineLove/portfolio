@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Zwe Nyan Zaw'
 theme = 'notrack'
 
+[build]
+minVersion = "0.92.2"
+
 [params]
 author = 'Zwe Nyan Zaw'
 # optional, defaults to author:

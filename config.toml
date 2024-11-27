@@ -24,4 +24,7 @@ linkedin = 'zwe-nyan-zaw'
 [taxonomies]
 year = "year"
 month = "month"
-tags = "/portfolio/tags"
+tags = "tags"
+
+[permalinks]
+tags = "/portfolio/tags/:slug/"
